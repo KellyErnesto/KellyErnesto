@@ -10,7 +10,7 @@ Eu aceito dicas para melhorar meus projetos e espero que meu repositório possa 
 
 </br><div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KellyErnesto&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KellyErnesto&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyErnesto&layout=compact&theme=tokyonight"/>
 
 </div></br>
