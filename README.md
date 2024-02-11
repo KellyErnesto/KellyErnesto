@@ -1,12 +1,6 @@
 ### 😀 `Hello World`!
 
-</br>Eu me chamo Kelly, tenho 25 anos, sou mãe de duas meninas lindas.
-
-Atualmente trabalho em um escritório de contabilidade como Auxiliar de Escritório em Geral.
-
-Estou cursando Análise e Desenvolvimento de Sistemas usando a linguagem Python mas também faço alguns projetos em HTML, CSS e JavaScript para praticar mais minha lógica.
-
-Eu aceito dicas para melhorar meus projetos e espero que meu repositório possa te ajudar de alguma forma 😉!
+</br>Aceito dicas para melhorar os meus projetos e espero que meu repositório possa te ajudar de alguma forma 😉!
 
 </br><div>
 
